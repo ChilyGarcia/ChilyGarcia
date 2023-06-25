@@ -9,6 +9,18 @@
   </h3>
 </div>
 
+<div id="redes" align="center">
+  <a
+    href="https://www.linkedin.com/in/juan-esteban-garc%C3%ADa-daza-611485209/"
+    target="_blanck"
+  >
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="linkedin badge"
+    />
+  </a>
+</div>
+
 
 
 <!--
