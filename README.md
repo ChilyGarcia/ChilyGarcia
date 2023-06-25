@@ -31,7 +31,7 @@
 
 <div align="left">
   <h3>Languages and tools</h3>
-  <span>
+  <div>
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
       title="AngularJS"
@@ -50,21 +50,22 @@
 
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
-      title="css3"
-      alt="CSS3"
+      title="androidstudio"
+      alt="AndroidStudio"
       width="40"
       height="40"
     />&nbsp;
 
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
-      title="github"
-      alt="GitHub"
+      title="androidstudio"
+      alt="AndroidStudio"
       width="40"
       height="40"
     />&nbsp;
-  </span>
+  </div>
 </div>
+
 
 <!--
 **ChilyGarcia/ChilyGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
