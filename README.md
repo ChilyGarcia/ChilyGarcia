@@ -29,6 +29,9 @@
 - 🌱 I am currently learning **React native**
 - 📫 How to reach me: **jugada160324@gmail.com**
 
+  <div align="left">
+  <h3>Languages and tools</h3>
+
   <div>
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
@@ -40,6 +43,22 @@
 
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg"
+      title="androidstudio"
+      alt="AndroidStudio"
+      width="40"
+      height="40"
+    />&nbsp;
+
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
+      title="androidstudio"
+      alt="AndroidStudio"
+      width="40"
+      height="40"
+    />&nbsp;
+
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
       title="androidstudio"
       alt="AndroidStudio"
       width="40"
