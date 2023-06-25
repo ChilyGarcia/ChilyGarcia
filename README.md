@@ -21,6 +21,13 @@
   </a>
 </div>
 
+---
+
+👨‍💻 About me
+
+- 🔭 I am currently studying software engineering
+- 🌱 I am currently learning **React native**
+- - 📫 How to reach me: **jugada160324@gmail.com**
 
 
 <!--
@@ -28,8 +35,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I am currently studying software engineering
+- 🌱 I am currently learning **React native**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
