@@ -30,43 +30,110 @@
 - 📫 How to reach me: **jugada160324@gmail.com**
 
 <div align="left">
-  <h3>Languages and tools</h3>
-  <div>
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
-      title="AngularJS"
-      alt="AngularJs"
-      width="40"
-      height="40"
-    />&nbsp;
+    <h3>🔨 Languages and tools</h3>
+    <div style="display: flex;">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
+        title="AngularJS"
+        alt="AngularJs"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
+        title="css3"
+        alt="css3"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+        title="github"
+        alt="github"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg"
+        title="github"
+        alt="github"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
+        title="git"
+        alt="git"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"
+        title="html5"
+        alt="html5"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg"
+        title="intellij"
+        alt="intellij"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
+        title="java"
+        alt="java"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
+        title="javascript"
+        alt="javascript"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"
+        title="mysql"
+        alt="mysql"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
+        title="nodejs"
+        alt="nodejs"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+        title="react"
+        alt="react"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain-wordmark.svg"
+        title="sqlite"
+        alt="sqlite"
+        width="40"
+        height="40"
+      />&nbsp;
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
+        title="typescript"
+        alt="typescript"
+        width="40"
+        height="40"
+      />&nbsp;
+      
+  ---
 
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg"
-      title="androidstudio"
-      alt="AndroidStudio"
-      width="40"
-      height="40"
-    />&nbsp;
-
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
-      title="androidstudio"
-      alt="AndroidStudio"
-      width="40"
-      height="40"
-    />&nbsp;
-
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
-      title="androidstudio"
-      alt="AndroidStudio"
-      width="40"
-      height="40"
-    />&nbsp;
-  </div>
-</div>
-
-
+  
 <!--
 **ChilyGarcia/ChilyGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
