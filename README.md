@@ -130,8 +130,15 @@
         width="40"
         height="40"
       />&nbsp;
-      
-  ---
+    </div>  
+</div>      
+
+
+---
+
+### My stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChilyGarcia&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
   
 <!--
