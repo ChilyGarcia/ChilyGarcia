@@ -5,8 +5,7 @@
   />
   <h1 align="center">Hi, I'm Juan García ⚡</h1>
   <h3 align="center">
-    I am a full stack junior programmer, passionate about learning and putting
-    my software development skills to use.
+    I am a junior full stack programmer, passionate about learning and applying my skills in software development to solve problems.
   </h3>
 </div>
 
