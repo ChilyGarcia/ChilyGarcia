@@ -140,6 +140,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChilyGarcia&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
+![ChilyGarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=ChilyGarcia&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChilyGarcia&langs_count=8)
+
   
 <!--
 **ChilyGarcia/ChilyGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
