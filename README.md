@@ -27,7 +27,7 @@
 
 - 🔭 I am currently studying software engineering
 - 🌱 I am currently learning **React native**
-- - 📫 How to reach me: **jugada160324@gmail.com**
+- 📫 How to reach me: **jugada160324@gmail.com**
 
 
 <!--
