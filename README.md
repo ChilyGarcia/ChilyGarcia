@@ -26,14 +26,20 @@
 👨‍💻 **About me**
 
 - 🔭 I am currently studying software engineering.
-- 🌱 I am currently learning **React Native**.
+- 🌱 I am currently learning **Kubernetes**.
 - 📫 How to reach me: **jugada160324@gmail.com**
 
 ---
 
 ### 🔨 **Frameworks**
-<div style="display: flex; align-items: center;">
-
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
+    title="Angular"
+    alt="Angular"
+    width="40"
+    height="40"
+  />&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
     title="Django"
@@ -41,18 +47,17 @@
     width="40"
     height="40"
   />&nbsp;
-
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-    title="Laravel"
-    alt="Laravel"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"
+    title="DjangoRest"
+    alt="DjangoRest"
     width="40"
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
-    title="Angular"
-    alt="Angular"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    title="Docker"
+    alt="Docker"
     width="40"
     height="40"
   />&nbsp;
@@ -64,9 +69,9 @@
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-    title="React"
-    alt="React"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+    title="Laravel"
+    alt="Laravel"
     width="40"
     height="40"
   />&nbsp;
@@ -85,12 +90,12 @@
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
-    title="Docker"
-    alt="Docker"
+    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+    title="React"
+    alt="React"
     width="40"
     height="40"
-  />&nbsp;
+  />
 </div>
 
 ---
@@ -191,9 +196,5 @@
 ---
 
 ### 📊 **My stats**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChilyGarcia&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-
-![ChilyGarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=ChilyGarcia&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChilyGarcia&langs_count=8)
