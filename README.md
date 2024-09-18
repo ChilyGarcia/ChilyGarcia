@@ -95,6 +95,20 @@
     alt="React"
     width="40"
     height="40"
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    title="Tailwind CSS"
+    alt="Tailwind CSS"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+    title="Redux"
+    alt="Redux"
+    width="40"
+    height="40"
   />
 </div>
 
