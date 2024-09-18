@@ -33,6 +33,22 @@
 
 ### 🔨 **Frameworks**
 <div style="display: flex; align-items: center;">
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
+    title="Django"
+    alt="Django"
+    width="40"
+    height="40"
+  />&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+    title="Laravel"
+    alt="Laravel"
+    width="40"
+    height="40"
+  />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
     title="Angular"
@@ -62,7 +78,7 @@
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
     title="Node.js"
     alt="Node.js"
     width="40"
