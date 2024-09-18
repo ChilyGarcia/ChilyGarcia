@@ -110,6 +110,13 @@
     width="40"
     height="40"
   />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg"
+    title="Redis"
+    alt="Redis"
+    width="40"
+    height="40"
+  />
 </div>
 
 ---
