@@ -26,7 +26,7 @@
 👨‍💻 **About me**
 
 - 🔭 I am currently studying software engineering.
-- 🌱 I am currently learning **Kubernetes**.
+- 🌱 I am currently learning **Kotlin**.
 - 📫 How to reach me: **jugada160324@gmail.com**
 
 ---
