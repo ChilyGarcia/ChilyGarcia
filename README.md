@@ -85,6 +85,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChilyGarcia&langs_count=8)
 
----
-
-Si quieres que también mejore la redacción y el formato de la hoja de vida que incluiste al final, te la puedo devolver optimizada y limpia para usar en GitHub, PDF o web. ¿Quieres que lo haga?
